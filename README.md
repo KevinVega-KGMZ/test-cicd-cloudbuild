@@ -24,6 +24,7 @@ This project demonstrates a complete CI/CD pipeline for a Flask application usin
 
 ## Architecture
 
+
 This application:
 1. Builds a Docker image and pushes to Artifact Registry
 2. Runs pytest tests
